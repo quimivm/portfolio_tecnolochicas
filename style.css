@@ -88,7 +88,7 @@ h1 {
 /* Sobre mi */
 
 .sobre-mi {
-  height: 350px;
+  height: 500px;
   padding: 10px;
 }
 
@@ -208,11 +208,11 @@ h1 {
 }
 
 .testimonios .carousel {
-  max-width: 800px;
+  max-width: 900px;
 }
 
 .carousel-item {
-  height: 500px;
+  height: 600px;
 }
 
 .carousel-item .container {
